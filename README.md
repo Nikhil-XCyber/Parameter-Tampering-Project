@@ -49,5 +49,6 @@ To mitigate the vulnerabilities demonstrated in this project, applications shoul
 
 **Secure Payment Logic:** Implement robust checks on the server-side to verify payment details are correct and complete before processing transactions.
 
-|**Sanitize All Inputs:** Properly sanitize and validate all user inputs, particularly in fields that allow HTML content (like product descriptions or feedback). |
+**Sanitize All Inputs:** Properly sanitize and validate all user inputs, particularly in fields that allow HTML content (like product descriptions or feedback).
+
 ---
